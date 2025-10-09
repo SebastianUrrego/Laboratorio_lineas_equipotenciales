@@ -42,9 +42,9 @@ Este repositorio contiene el informe y resultados del **Laboratorio de Física E
 ---
 
 ## 👨‍💻 Autor
-**Sebastián Urrego**
-**Daniel Reyes**
-**Elkin Joel Benitez**
+**Sebastián Urrego,**
+**Daniel Reyes,**
+**Elkin Joel Benitez y**
 **Daniel Reyes Aroca**
 Estudiante de Ingeniería – Universidad Sergio Arboleda  
 
